@@ -1,0 +1,2 @@
+How do you name a vi file in Linux?
+To use vi on a file, type in vi filename. If the file named filename exists, then the first page (or screen) of the file will be displayed; if the file does not exist, then an empty file and screen are created into which you may enter text.
